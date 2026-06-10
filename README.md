@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aazigKAxFmCP5tdoXnYh9j62NMg1J3Qy?usp=sharing)
 
-## Overview
+# Overview
 
 A comprehensive hands-on Pandas notebook covering everything from DataFrame fundamentals to real-world data analysis projects. This repository demonstrates practical data wrangling, preprocessing, exploratory data analysis (EDA), visualization, and business insights generation using Pandas.
 
@@ -54,7 +54,7 @@ The notebook combines theoretical concepts with real datasets, making it ideal f
 
 ## Data Cleaning
 
-### Missing Values
+## Missing Values
 
 * Detect Missing Values
 * Drop Missing Values
